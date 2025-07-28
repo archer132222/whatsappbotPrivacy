@@ -1,2 +1,2 @@
 # whatsappbotPrivacy
-privacy policy
+I do not use any data about you
