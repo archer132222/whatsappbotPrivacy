@@ -1,0 +1,2 @@
+# whatsappbotPrivacy
+privacy policy
